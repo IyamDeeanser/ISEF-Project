@@ -12,6 +12,7 @@ I recommend taking a look at Archive/Flight_State_Machine_V5, and comparing the 
 They are both fully operational flight firmwares that were written about six months apart. 
 
 This code can be run on the Kranz flight computer V2, with a BMI088 IMU and BMP280 barometer, on a Teensy3.6 running Teensyduino. 
+In short, this code is customized to run in a very specific environment, so most likely can only be read.
 
 This code relies on the following libraries:
 <BMI088.h>
