@@ -1,0 +1,2 @@
+alphabet = "abcdefghijklmnopqrstuvwxyz"
+message = input()
