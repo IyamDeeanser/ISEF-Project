@@ -6,7 +6,7 @@ It's quite a mess, as I began this project with no knowledge of Github and its u
 the organization of the folders are a valiant attempt to create some sense of order out of the chaos that has descended upon
 this first-time programmer. However, this repository is the most geniune representation of my work, and it is here, unfiltered.
 
-The only relevant files are under Flight/Flight_State_Machine_R3_V1. However, you're welcome to look at all of the other files.
+The only relevant files are under **Flight/Flight_State_Machine_R3_V1**. However, you're welcome to look at all of the other files.
 Many of them are outdated or different versions of the same base code for different tests, so read at your own risk. 
 I recommend taking a look at Archive/Flight_State_Machine_V5, and comparing the change in code over the course of several months. 
 They are both fully operational flight firmwares that were written about six months apart. 
